@@ -56,11 +56,6 @@ hint-report/
 *.zip
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
 ### Vim ###
 *.sw[a-p]
@@ -170,11 +165,6 @@ hint-report/
 *.zip
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
 ### Vim ###
 *.sw[a-p]
@@ -252,3 +242,7 @@ coverage
 
 # Yarn Integrity file
 .yarn-integrity
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
